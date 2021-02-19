@@ -1,7 +1,5 @@
 My name is Mohammad Javad 😃. I started programming when I was 15. Now, I'm co-founder and software engineer at [Quera](https://quera.ir), a technology company that aims to create a community of developers, educate them, and help them find the perfect job. I live in Tehran, Iran. I love contributing to open source projects.
 
-Feel free to contact me on Twitter [@mjnaderi_ir](https://twitter.com/mjnaderi_ir).
-
 ![mjnaderi's github stats](https://github-readme-stats.vercel.app/api?username=mjnaderi&show_icons=true)
 
 <!--
